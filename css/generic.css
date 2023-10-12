@@ -58,9 +58,14 @@ a:visited {
 	color: #9085f2;
 }
 
-@media (max-width: 343px) {
+ul li {
+	padding: auto;
+}
+
+@media (max-width: 450px) {
 	nav {
 		height: auto;
+		text-align: center;
 	}
 
 	ul {
