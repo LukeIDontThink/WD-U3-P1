@@ -47,7 +47,7 @@ ul {
 
 ul a {
 	font-size: 40px;
-	color: #dbdbdb;
+	color: #d1d1d1;
 }
 
 ul a:hover {
@@ -55,7 +55,7 @@ ul a:hover {
 }
 
 a:visited {
-	color: #9085f2;
+	color: #dbdbdb;
 }
 
 ul li {
