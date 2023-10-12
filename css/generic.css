@@ -10,6 +10,10 @@ header {
 	text-align: center;
 }
 
+h1 {
+	color: #dbdbdb;
+}
+
 nav {
 	height: 50px;
 	background-color: #636363;
@@ -35,6 +39,19 @@ ul {
 	list-style-type: none;
 }
 
+ul a {
+	font-size: 40px;
+	color: #dbdbdb;
+}
+
+ul a:hover {
+	color: #85c7f2;
+}
+
+a:visited {
+	color: #9085f2;
+}
+
 @media (max-width: 343px) {
 	nav {
 		height: auto;
@@ -45,13 +62,4 @@ ul {
 		justify-content: space-around;
 		list-style-type: none;
 	}
-}
-
-ul a {
-	font-size: 40px;
-	color: #dbdbdb;
-}
-
-ul a:hover {
-	color: #85c7f2
 }
